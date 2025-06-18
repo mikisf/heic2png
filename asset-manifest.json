@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/heic2png/static/js/main.b13c5409.js",
+    "main.js": "/heic2png/static/js/main.abe470a4.js",
     "index.html": "/heic2png/index.html",
-    "main.b13c5409.js.map": "/heic2png/static/js/main.b13c5409.js.map"
+    "main.abe470a4.js.map": "/heic2png/static/js/main.abe470a4.js.map"
   },
   "entrypoints": [
-    "static/js/main.b13c5409.js"
+    "static/js/main.abe470a4.js"
   ]
 }
